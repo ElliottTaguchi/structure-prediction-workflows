@@ -1,0 +1,31 @@
+{
+    "queries": {
+        "amber_bat_stone_EGFR": {
+            "chains": [
+                {
+                    "molecule_type": "protein",
+                    "chain_ids": [
+                        "A"
+                    ],
+                    "sequence": "SEIDEKLKQFLAQLEAEKGPGSEPATSGSETPGTSESATPESGPGPTQEQLQQQYKHLQKARE",
+                    "main_msa_file_paths": [
+                        "/home/postyr/openfold-3/openfold3/alignments/amber_bat_stone/"
+                    ]
+                },
+                {
+                    "molecule_type": "protein",
+                    "chain_ids": [
+                        "B"
+                    ],
+                    "sequence": "LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEITYVQRNYDLSFLKTIQEVAGYVLIALNTVERIPLENLQIIRGNMYYENSYALAVLSNYDANKTGLKELPMRNLQEILHGAVRFSNNPALCNVESIQWRDIVSSDFLSNMSMDFQNHLGSCQKCDPSCPNGSCWGAGEENCQKLTKIICAQQCSGRCRGKSPSDCCHNQCAAGCTGPRESDCLVCRKFRDEATCKDTCPPLMLYNPTTYQMDVNPEGKYSFGATCVKKCPRNYVVTDHGSCVRACGADSYEMEEDGVRKCKKCEGPCRKVCNGIGIGEFKDSLSINATNIKHFKNCTSISGDLHILPVAFRGDSFTHTPPLDPQELDILKTVKEITGFLLIQAWPENRTDLHAFENLEIIRGRTKQHGQFSLAVVSLNITSLGLRSLKEISDGDVIISGNKNLCYANTINWKKLFGTSGQKTKIISNRGENSCKATGQVCHALCSPEGCWGPEPRDCVSCRNVSRGRECVDKCNLLEGEPREFVENSECIQCHPECLPQAMNITCTGRGPDNCIQCAHYIDGPHCVKTCPAGVMGENNTLVWKYADAGHVCHLCHPNCTYGCTGPGLEGCPTNGPKIPS",
+                    "main_msa_file_paths": [
+                        "/home/postyr/openfold-3/openfold3/alignments/EGFR/"
+                    ]
+                }
+            ],
+            "use_msas": "true",
+            "use_paired_msas": "false",
+            "use_main_msas": "true"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "QVQLVESGGGLVQPGGSLRLSCAASGRTFSSYALGWFRQAPGQGLEAVAAINWSSGSTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAAGYQINDYEYDYWGQGTLVTVS",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/postyr/Protenix/precomputed_msa/binder/724928537.DBZ6___A",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "LEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEITYVQRNYDLSFLKTIQEVAGYVLIALNTVERIPLENLQIIRGNMYYENSYALAVLSNYDANKTGLKELPMRNLQEILHGAVRFSNNPALCNVESIQWRDIVSSDFLSNMSMDFQNHLGSCQKCDPSCPNGSCWGAGEENCQKLTKIICAQQCSGRCRGKSPSDCCHNQCAAGCTGPRESDCLVCRKFRDEATCKDTCPPLMLYNPTTYQMDVNPEGKYSFGATCVKKCPRNYVVTDHGSCVRACGADSYEMEEDGVRKCKKCEGPCRKVCNGIGIGEFKDSLSINATNIKHFKNCTSISGDLHILPVAFRGDSFTHTPPLDPQELDILKTVKEITGFLLIQAWPENRTDLHAFENLEIIRGRTKQHGQFSLAVVSLNITSLGLRSLKEISDGDVIISGNKNLCYANTINWKKLFGTSGQKTKIISNRGENSCKATGQVCHALCSPEGCWGPEPRDCVSCRNVSRGRECVDKCNLLEGEPREFVENSECIQCHPECLPQAMNITCTGRGPDNCIQCAHYIDGPHCVKTCPAGVMGENNTLVWKYADAGHVCHLCHPNCTYGCTGPGLEGCPTNGPKIPS",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/postyr/Protenix/precomputed_msa/target",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "name": "724928537.DBZ6___A_EGFR"
+    }
+]

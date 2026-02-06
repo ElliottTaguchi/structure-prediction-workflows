@@ -1,0 +1,19 @@
+{
+    "features": 52.03758406639099,
+    "process_features_model_1_multimer_v3_pred_0": 1.9073486328125e-06,
+    "predict_and_compile_model_1_multimer_v3_pred_0": 100.45708107948303,
+    "predict_benchmark_model_1_multimer_v3_pred_0": 54.89666271209717,
+    "process_features_model_2_multimer_v3_pred_0": 2.1457672119140625e-06,
+    "predict_and_compile_model_2_multimer_v3_pred_0": 36.36946415901184,
+    "predict_benchmark_model_2_multimer_v3_pred_0": 25.900627851486206,
+    "process_features_model_3_multimer_v3_pred_0": 2.384185791015625e-06,
+    "predict_and_compile_model_3_multimer_v3_pred_0": 90.08217906951904,
+    "predict_benchmark_model_3_multimer_v3_pred_0": 76.85953164100647,
+    "process_features_model_4_multimer_v3_pred_0": 1.6689300537109375e-06,
+    "predict_and_compile_model_4_multimer_v3_pred_0": 71.85336661338806,
+    "predict_benchmark_model_4_multimer_v3_pred_0": 25.656466245651245,
+    "process_features_model_5_multimer_v3_pred_0": 1.9073486328125e-06,
+    "predict_and_compile_model_5_multimer_v3_pred_0": 49.96811366081238,
+    "predict_benchmark_model_5_multimer_v3_pred_0": 36.47113656997681,
+    "relax_model_2_multimer_v3_pred_0": 8.234210014343262
+}
