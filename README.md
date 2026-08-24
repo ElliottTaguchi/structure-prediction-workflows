@@ -4,32 +4,6 @@ A repository containing workflows, scripts, and setup instructions for preparing
 
 The repository is intended to provide practical and reproducible workflows for running multiple structure prediction methods using a consistent set of input preparation, sequence alignment, and file conversion steps.
 
-## Repository Structure
-
-.
-├── Individual_AI_models/
-│   ├── AlphaFold2/
-│   ├── AlphaFold3/
-│   ├── Boltz-2/
-│   ├── Chai-1/
-│   ├── HelixFold3/
-│   ├── OpenFold2/
-│   ├── OpenFold3/
-│   ├── Protenix/
-│   └── SeedFold/
-│
-├── alignment_generation_scripts/
-│   ├── a3m_to_alignedpqt_chai.py
-│   ├── a3m_to_sto_openfold.py
-│   ├── fasta_to_a3m_openfold.py
-│   ├── fasta_to_sto_EGFR.py
-│   └── json_to_a3m.py
-│
-└── general_conversions/
-    ├── pdb_file_reader_func.py
-    ├── rename_script.py
-    └── split_fasta_files.py
-
 ### Individual_AI_models/
 
 Contains model-specific workflows for preparing and running the individual structure prediction models:
