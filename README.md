@@ -6,6 +6,7 @@ The repository is intended to provide practical and reproducible workflows for r
 
 ## Repository Structure
 
+.
 ├── Individual_AI_models/
 │   ├── AlphaFold2/
 │   ├── AlphaFold3/
